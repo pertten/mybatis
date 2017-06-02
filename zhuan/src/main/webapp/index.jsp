@@ -9,6 +9,5 @@
 <h2>hello world</h2>
 
 <a href="<%=request.getContextPath() %>/getuser?id=1">check</a>
-${user.name }
 </body>
 </html>
